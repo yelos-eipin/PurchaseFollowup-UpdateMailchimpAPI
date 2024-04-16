@@ -1,0 +1,5 @@
+Reports/EquipmentPurchasesLast24Hours_FileOutput.csv
+Reports/PartsPurchasesLast24Hours_FileOutput.csv
+Reports/ServicePerformedLast24Hours_FileOutput.csv
+updateMailChimpList-DEV.php
+updateMailChimpList.php.bk
